@@ -4,6 +4,6 @@
   <div class="jumbotron text-center">    
 <h1>{{$service}}</h1>
 <div class="container">
-<h2>Services</h2> 
+<h2>Services Pages</h2> 
 </div>
   </div>
