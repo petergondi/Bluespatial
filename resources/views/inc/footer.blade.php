@@ -50,10 +50,10 @@
       <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
 
         <!-- Content -->
-        <h6 class="text-uppercase font-weight-bold">Company name</h6>
+        <h6 class="text-uppercase font-weight-bold">Company Info</h6>
         <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-        <p>Here you can use rows and columns here to organize your footer content. Lorem ipsum dolor sit amet, consectetur
-          adipisicing elit.</p>
+        <p>BlueSpatial Africa was founded in October 2017 as an organization, with a key focus on providing geospatial solutions focusing on
+           Sustainable Development Goal #4 Quality Education </p>
 
       </div>
       <!-- Grid column -->
@@ -65,16 +65,16 @@
         <h6 class="text-uppercase font-weight-bold">Products</h6>
         <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
         <p>
-          <a href="#!">MDBootstrap</a>
+          <a href="#!">Training</a>
         </p>
         <p>
-          <a href="#!">MDWordPress</a>
+          <a href="#!">SDG Campaign</a>
         </p>
         <p>
-          <a href="#!">BrandFlow</a>
+          <a href="#!">GIS Solutions</a>
         </p>
         <p>
-          <a href="#!">Bootstrap Angular</a>
+          <a href="#!">Digital Literacy</a>
         </p>
 
       </div>
@@ -124,6 +124,22 @@
     <!-- Grid row -->
 
   </div>
+  <div class="row justify-content-center">
+      <div class="col-8 col-md-10 ">
+          <form class="card card-sm">
+              <div class="card-body row  align-items-center">
+                  <!--end of col-->
+                  <div class="col">
+                      <input class="form-control form-control-sm form-control-borderless" type="search" placeholder="Search topics or keywords">
+                  </div>
+                  <!--end of col-->
+                  <div class="col-auto">
+                      <button class="btn btn-sm btn-success bg-primary" type="submit">Subscribe to Newsletter</button>
+                  </div>
+                  <!--end of col-->
+              </div>
+          </form>
+      </div>
   <!-- Footer Links -->
 
   <!-- Copyright -->

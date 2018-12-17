@@ -10,6 +10,7 @@
           <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -20,26 +21,33 @@
               </div>
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="https://i.ytimg.com/vi/5FSPHNhAHa8/hqdefault.jpg" style="height:40%;margin:0px;" alt="Second slide">
+            <img class="d-block w-100" src="https://pbs.twimg.com/media/DqQD9j1X0AA4doY.jpg" style="height:40%;margin:0px;" alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
                 <h5>Bluespatial Gis solutions</h5>
                 <p>Owesome</p>
               </div>
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="https://ak7.picdn.net/shutterstock/videos/10902887/thumb/7.jpg" style="height:40%; margin:0px;" alt="Third slide">
+            <img class="d-block w-100" src="https://wallpaperfm.com/img/original/7/8/e/17362.jpg" style="height:40%; margin:0px;" alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
                 <h5>Bluespatial Gis solutions</h5>
                 <p>Owesome</p>
               </div>
           </div>
+          <div class="carousel-item">
+              <img class="d-block w-100" src="https://addons-media.operacdn.com/media/CACHE/images/themes/05/95605/1.0-rev1/images/e606d5b1-4240-4dda-9f68-9287adac4b24/afa312d23564efbb066e6f094cb2f360.jpg" style="height:40%; margin:0px;" alt="Third slide">
+              <div class="carousel-caption d-none d-md-block">
+                  <h5>Bluespatial Gis solutions</h5>
+                  <p>Owesome</p>
+                </div>
+            </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="carousel-control-prev-icon bg-dark" aria-hidden="true"></span>
           <span class="sr-only">Previous</span>
         </a>
         <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="carousel-control-next-icon bg-dark" aria-hidden="true"></span>
           <span class="sr-only">Next</span>
         </a>
       </div>

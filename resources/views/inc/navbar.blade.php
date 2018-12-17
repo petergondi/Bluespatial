@@ -2,6 +2,7 @@
   <nav class="navbar navbar-inverse navbar-expand-md bg-primary
    navbar-dark navbar-laravel ">
     <div class="container">
+                 
         <a class="navbar-brand" href="{{ url('/') }}">
             {{ config('app.name', 'Laravel')}}
         </a>
@@ -33,6 +34,9 @@
               <li class="nav-item">
                 <a class="nav-link" href="/contact">Contact</a>
               </li>
+              <li class="nav-item">
+                    <a class="nav-link" href="">SDG forum</a>
+                  </li>
              
             </ul>
 
