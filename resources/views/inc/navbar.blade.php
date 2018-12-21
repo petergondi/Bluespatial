@@ -1,5 +1,5 @@
 
-  <nav class="navbar navbar-inverse navbar-expand-md bg-primary
+  <nav class="navbar navbar-inverse navbar-expand-md bg-info text-white
    navbar-dark navbar-laravel ">
     <div class="container">
                  

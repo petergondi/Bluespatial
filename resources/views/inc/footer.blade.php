@@ -130,7 +130,7 @@
               <div class="card-body row  align-items-center">
                   <!--end of col-->
                   <div class="col">
-                      <input class="form-control form-control-sm form-control-borderless" type="search" placeholder="Search topics or keywords">
+                      <input class="form-control form-control-sm form-control-borderless" type="search" placeholder="Enter email">
                   </div>
                   <!--end of col-->
                   <div class="col-auto">
