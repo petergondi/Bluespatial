@@ -32,6 +32,9 @@
                 <a class="nav-link" href="/portfolio">Porfolio</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="">Smart First Aid App</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="/contact">Contact</a>
               </li>
               <li class="nav-item">
